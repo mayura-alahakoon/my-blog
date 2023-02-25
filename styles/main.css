@@ -63,3 +63,7 @@ img.next-image {
 .nav-line .nav-link {
   color: #69778c;
 }
+
+.nav-line :hover {
+  color: rgb(107, 107, 247);
+}

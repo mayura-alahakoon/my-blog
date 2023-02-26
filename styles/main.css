@@ -67,3 +67,7 @@ img.next-image {
 .nav-line :hover {
   color: rgb(107, 107, 247);
 }
+
+.nav {
+  align-items: left;
+}

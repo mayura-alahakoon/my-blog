@@ -39,6 +39,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/posts/my-story.js"
+    ],
+    "/whoami": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/whoami.js"
     ]
   },
   "ampFirstPages": []

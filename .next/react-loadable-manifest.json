@@ -1,8 +1,8 @@
 {
   "../node_modules/nextra-theme-blog/dist/index.js -> react-cusdis": {
-    "id": 3697,
+    "id": "../node_modules/nextra-theme-blog/dist/index.js -> react-cusdis",
     "files": [
-      "static/chunks/697.706d50bd981881d0.js"
+      "static/chunks/node_modules_react-cusdis_dist_ReactCusdis_js.js"
     ]
   }
 }

@@ -20,7 +20,7 @@ Fourthly, there are many free alternative software options available for all of 
 
 If you are using cracked software, just think about how developers developed that software, their time, and sacrifice. We have to give credit to them. If they had not developed that software, how would you use it? How would you get money from your project? Just think about doing your best to value the developers.
 
-This is what I want to say. Thank you for your time reading this. This is my article, and I'll continue it.
+This is what I want to say. Thank you for your time reading this. This is my first article, and I'll continue it.
 
 In conclusion, my journey as an open-source enthusiast started with my curiosity about hacking and exploring Kali Linux. I discovered the advantages of using open-source software, including its cost-effectiveness, trustworthiness, supportive community, and the availability of free alternatives. It is crucial to appreciate and give credit to the developers who sacrifice their time and effort to develop these software options. As a Sri Lankan student with limited financial resources, open-source software has been a game-changer for me. I encourage others to explore these options and support the open-source community.
 

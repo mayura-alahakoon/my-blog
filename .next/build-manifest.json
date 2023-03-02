@@ -35,10 +35,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/posts.js"
     ],
-    "/projects": [
+    "/posts/my-story": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/projects.js"
+      "static/chunks/pages/posts/my-story.js"
+    ],
+    "/whoami": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/whoami.js"
     ]
   },
   "ampFirstPages": []

@@ -16,7 +16,7 @@ Secondly, we can trust open-source software because most of it is community-driv
 
 Thirdly, the community is one reason I love open-source software. If you have a particular issue with your software, you can fix it easily by collaborating with the community. The community will help you to fix it, and you can learn more new things from them.
 
-Fourthly, there are many free alternative software options available for all of our work. For instance, if you are a video editor, most of you are using Adobe products. I am not saying that these software options are not good; they are excellent if you use them legally. But if you are using cracked versions, you can use open-source software like Davinci. The first step is to search on the internet, and you can find whatever you want in open-source.
+Fourthly, there are many free alternative software options available for all of our work. For instance, if you are a video editor, most of you are using Adobe products. I am not saying that these software options are not good; they are excellent if you use them legally. But if you are using cracked versions, you can use open-source software like Blender. The first step is to search on the internet, and you can find whatever you want in open-source.
 
 If you are using cracked software, just think about how developers developed that software, their time, and sacrifice. We have to give credit to them. If they had not developed that software, how would you use it? How would you get money from your project? Just think about doing your best to value the developers.
 
